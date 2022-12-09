@@ -3,10 +3,10 @@
 }
 
 :root {
-  --primary: rgba(68, 88, 119, 1);
-  --secondary: rgb(82, 91, 91);
-  --tertiary: rgba(49,52,61,1);
-  --dark: rgba(28,29,33,1);
+  --primary: rgb(49, 56, 67);
+  --secondary: rgb(47, 50, 250);
+  --tertiary: rgb(37, 43, 61);
+  --dark: rgb(54, 56, 65);
   --light: rgba(238,238,247,1);
 
 }
